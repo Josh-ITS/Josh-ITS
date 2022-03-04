@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Josh-ITS
 - 👀 Fintech
-- 🌱 python, dart, K8, 
+- 🌱 python, dart, K8, Docker, C#
 - 📫 Josh@itsolutionsco.com
